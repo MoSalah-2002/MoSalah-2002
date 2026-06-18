@@ -164,7 +164,7 @@ Building intelligent systems powered by Machine Learning, Deep Learning, NLP, an
 <li>🚀 Contribute to open-source AI projects</li>
 </ul>
 
-
+<hr>
 
 <p align="center">
 <i>
@@ -175,5 +175,7 @@ Building intelligent systems powered by Machine Learning, Deep Learning, NLP, an
 <p align="center">
 <b>— Ralph Waldo Emerson</b> 🧠
 </p>
+
+<hr>
 
 <h3 align="center">⭐Feel free to explore my repositories and don't forget to star them if you find something useful! ⭐</h3>
