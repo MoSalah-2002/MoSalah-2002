@@ -165,7 +165,15 @@ Building intelligent systems powered by Machine Learning, Deep Learning, NLP, an
 </ul>
 
 
-<h3 align="center">⚡ Don't go where the road might lead, go instead where there is no road and leave a trail.<br> Ralph Waldo Emerson 🧠</h3>
 
+<p align="center">
+<i>
+"Don't go where the road might lead, go instead where there is no road and leave a trail."
+</i>
+</p>
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<p align="center">
+<b>— Ralph Waldo Emerson</b> 🧠
+</p>
+
+<h3 align="center">⭐Feel free to explore my repositories and don't forget to star them if you find something useful! ⭐</h3>
