@@ -68,16 +68,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
 ### 📫 Connect With Me
 
-- LinkedIn: Your LinkedIn URL
-- Portfolio: Your Portfolio URL
-- Email: your_email@example.com
+- LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/mohamedsalah2002/)
+- Email: midosalah2002@gmail.com
