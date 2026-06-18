@@ -1,74 +1,129 @@
-<h1 align="center">Hi 👋, I'm Mohamed Salah</h1>
-<h3 align="center">Machine Learning Engineer | AI Developer | NLP & Speech Processing Enthusiast</h3>
+# 👋 Hi, I'm Mohamed Salah
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+### 🤖 Machine Learning Engineer | AI Developer | NLP & Speech Processing Enthusiast
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 Passionate about Artificial Intelligence and Machine Learning
-- 🤖 Building Deep Learning and NLP solutions using Python
-- 🎙️ Working on Speech Processing, Forced Alignment, and Audio Analysis
-- 📚 Exploring Large Language Models (LLMs) and Transformers
-- ⚡ Developing scalable AI APIs with FastAPI
-- 🌱 Currently learning MLOps, Model Optimization, and Production AI Systems
-- 💬 Ask me about Python, Machine Learning, Deep Learning, NLP, Speech Processing, TensorFlow, PyTorch, and FastAPI
+*Building intelligent systems powered by Machine Learning, Deep Learning, NLP, and Speech Processing — transforming data into AI-driven solutions.*
 
 ---
 
-### 🛠️ Languages
+## 🎯 About Me
 
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+🎓 **Graduate** from Kafr El-Sheikh University (2024) — Faculty of Computer & Information Sciences
+💼 **Specialization:** Computer Science (Grade: Very Good)
+🏆 **Graduation Project:** Lakiny app makes it easier to find lost items using some artificial intelligence features. (Grade: A+)
+
+💡 Passionate about developing AI applications that solve real-world problems using Machine Learning, Deep Learning, and Large Language Models.
+
+🚀 What I Do:
+
+* Build Machine Learning and Deep Learning models using TensorFlow, Keras, and PyTorch
+* Develop NLP applications using Transformers and Hugging Face
+* Work on Speech Processing, Forced Alignment, ASR, and Audio Analysis
+* Deploy AI models using FastAPI and scalable APIs
+* Design end-to-end ML pipelines from data preprocessing to production deployment
+* Explore LLMs, Generative AI, and MLOps best practices
 
 ---
+
+## 🛠️ Technical Skills
 
 ### 🤖 Machine Learning & Deep Learning
 
-<p align="left">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
+Python • TensorFlow • Keras • PyTorch • Scikit-Learn • XGBoost
 
----
+### 🧠 Natural Language Processing
 
-### 🧠 NLP & LLMs
-
-<p align="left">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLTK-154F3B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
-</p>
-
----
+Transformers • Hugging Face • spaCy • NLTK • Word Embeddings • Sentiment Analysis • Text Classification
 
 ### 🎙️ Speech & Audio Processing
 
-<p align="left">
-<img src="https://img.shields.io/badge/Librosa-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI%20Whisper-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ASR-Speech%20Recognition-blue?style=for-the-badge"/>
-</p>
-
----
+Whisper • Librosa • Forced Alignment • Speech Recognition • Audio Enhancement • Signal Processing
 
 ### ⚙️ Backend & Deployment
 
-<p align="left">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+FastAPI • REST APIs • Docker • Linux • Git • GitHub
+
+### 📊 Data Science & Analytics
+
+Pandas • NumPy • Matplotlib • Seaborn • Data Visualization • Feature Engineering
+
+### ☁️ MLOps & Production AI
+
+Model Deployment • API Development • Experiment Tracking • Model Monitoring
 
 ---
 
-### 📫 Connect With Me
+## 🚀 Featured Projects
 
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mohamedsalah2002/)
-- Email: midosalah2002@gmail.com
+### 🎙️ Quran Verse Segmentation System
+
+**Technologies:** Python · Whisper · Forced Alignment · FastAPI
+
+* Developed an AI-powered system to automatically identify Surahs and verses from Quran recitations
+* Built audio processing pipelines for segmentation and timestamp extraction
+* Designed REST APIs for production usage
+
+---
+
+### 😊 Sentiment Analysis using Transformers
+
+**Technologies:** Hugging Face · Transformers · PyTorch
+
+* Fine-tuned transformer-based models for sentiment classification
+* Applied tokenization, training, evaluation, and inference pipelines
+* Compared model performance across different architectures
+
+---
+
+### 🧠 Sequence-to-Sequence Translation Model
+
+**Technologies:** TensorFlow · Keras · LSTM
+
+* Implemented Encoder-Decoder architectures
+* Trained sequence models for text generation and translation tasks
+* Explored attention mechanisms and sequence learning
+
+---
+
+### 🔊 Audio Enhancement Pipeline
+
+**Technologies:** Python · Librosa · DSP
+
+* Noise reduction and speech enhancement
+* Echo suppression and signal optimization
+* Audio quality improvement for phone recordings
+
+---
+
+## 📚 Currently Learning
+
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Advanced NLP Techniques
+* MLOps & Production AI Systems
+* Distributed Training & Model Optimization
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 LinkedIn: [Mohamed Salah Abdel Zaher | LinkedIn](https://www.linkedin.com/in/mohamedsalah2002/)
+* 💻 GitHub: [MoSalah-2002 (Mohamed Salah)](https://github.com/MoSalah-2002)
+* 📧 Email: [midosalah2002@gmail.com](mailto:midosalah2002@gmail.com)
+
+---
+
+## 🎯 Current Goals
+
+* 🤖 Build production-ready AI applications
+* 🧠 Master NLP and Large Language Models
+* 🎙️ Advance Speech Processing and ASR systems
+* ⚡ Deploy scalable AI APIs with FastAPI
+* ☁️ Learn advanced MLOps and cloud deployment
+* 🚀 Contribute to open-source AI projects
+
+---
+
+> "Don't go where the road might lead, go instead where there is no road and leave a trail" – Ralph Waldo Emerson
+
+⭐ Feel free to explore my repositories and connect with me!
