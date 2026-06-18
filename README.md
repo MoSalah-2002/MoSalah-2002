@@ -140,9 +140,6 @@ Building intelligent systems powered by Machine Learning, Deep Learning, NLP, an
 <img src="https://streak-stats.demolab.com?user=MoSalah-2002&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MoSalah-2002&theme=tokyonight&row=1&column=7" />
-</p>
 
 <hr>
 
