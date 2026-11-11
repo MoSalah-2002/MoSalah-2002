@@ -110,6 +110,32 @@ Building intelligent systems powered by Machine Learning, Deep Learning, NLP, an
 <li>Sequence generation and translation tasks</li>
 </ul>
 
+<h3>🕌 Arabic Fatawa QA — Qwen3-4B LoRA Fine-Tuning</h3>
+
+<p><strong>Technologies:</strong> PyTorch · Transformers · PEFT · LoRA · TRL</p>
+
+<ul>
+<li>Prepared Arabic question-answer pairs for supervised fine-tuning.</li>
+<li>Applied LoRA to selected attention projection layers of Qwen3-4B.</li>
+<li>Configured an evaluation split and an SFT training workflow.</li>
+</ul>
+
+<p><a href="projects/arabic-fatawa-lora/">Project files and training script</a></p>
+
+<h3>📖 Arabic Hadith Semantic Search</h3>
+
+<p><strong>Technologies:</strong> Sentence Transformers · GATE-AraBERT · Cosine Similarity · NumPy</p>
+
+<ul>
+<li>Generated dense embeddings for Arabic Hadith passages.</li>
+<li>Retrieved semantically related passages using cosine similarity.</li>
+<li>Implemented top-k search with normalized embeddings.</li>
+</ul>
+
+<p><a href="projects/arabic-hadith-semantic-search/">Project files and search script</a></p>
+
+<hr>
+
 <hr>
 
 <h2>📚 Currently Learning</h2>
